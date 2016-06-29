@@ -1,1 +1,2 @@
-# sugarcrm-portuguese-language-pack
+# Descrição
+Pacote de Linguagem Português Brasileiro
